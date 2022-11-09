@@ -1,0 +1,15 @@
+C:\Users\carolina.sato\Documents\DESAFIO C#\bin\Debug\net6.0\DESAFIO C#.exe
+C:\Users\carolina.sato\Documents\DESAFIO C#\bin\Debug\net6.0\DESAFIO C#.deps.json
+C:\Users\carolina.sato\Documents\DESAFIO C#\bin\Debug\net6.0\DESAFIO C#.runtimeconfig.json
+C:\Users\carolina.sato\Documents\DESAFIO C#\bin\Debug\net6.0\DESAFIO C#.dll
+C:\Users\carolina.sato\Documents\DESAFIO C#\bin\Debug\net6.0\DESAFIO C#.pdb
+C:\Users\carolina.sato\Documents\DESAFIO C#\obj\Debug\net6.0\DESAFIO C#.csproj.AssemblyReference.cache
+C:\Users\carolina.sato\Documents\DESAFIO C#\obj\Debug\net6.0\DESAFIO C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carolina.sato\Documents\DESAFIO C#\obj\Debug\net6.0\DESAFIO C#.AssemblyInfoInputs.cache
+C:\Users\carolina.sato\Documents\DESAFIO C#\obj\Debug\net6.0\DESAFIO C#.AssemblyInfo.cs
+C:\Users\carolina.sato\Documents\DESAFIO C#\obj\Debug\net6.0\DESAFIO C#.csproj.CoreCompileInputs.cache
+C:\Users\carolina.sato\Documents\DESAFIO C#\obj\Debug\net6.0\DESAFIO C#.dll
+C:\Users\carolina.sato\Documents\DESAFIO C#\obj\Debug\net6.0\refint\DESAFIO C#.dll
+C:\Users\carolina.sato\Documents\DESAFIO C#\obj\Debug\net6.0\DESAFIO C#.pdb
+C:\Users\carolina.sato\Documents\DESAFIO C#\obj\Debug\net6.0\DESAFIO C#.genruntimeconfig.cache
+C:\Users\carolina.sato\Documents\DESAFIO C#\obj\Debug\net6.0\ref\DESAFIO C#.dll
