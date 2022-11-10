@@ -34,7 +34,7 @@ do{
     qntdNotas = Convert.ToInt32(Console.ReadLine());
 
     if(qntdNotas == 1){
-        Console.WriteLine("Não à média de uma única nota!");
+        Console.WriteLine("Não a média de uma única nota!");
     }else{
         Console.WriteLine("                    ***** INSERINDO NOTAS *****");
         for(int x = 0; x<qntdNotas; x++){
@@ -43,7 +43,7 @@ do{
                     Console.WriteLine("Digite a " + (x+1) + "ª nota do aluno:");
                     notaInserida = Convert.ToInt32(Console.ReadLine());
 
-                    if(notaInserida > 10){
+                    if(notaInserida > 10 && notaInserida != 0){
                         Console.WriteLine("");
                         Console.WriteLine("Forma de inserção errada! Digite a nota outra vez [1 a 10]");
                         Console.WriteLine("");
@@ -57,9 +57,9 @@ do{
                     Console.WriteLine("Digite a " + (x+1) + "ª nota do aluno:");
                     notaInserida = Convert.ToInt32(Console.ReadLine());
 
-                    if(notaInserida < 10){
+                    if(notaInserida < 10 && notaInserida != 0){
                         Console.WriteLine("");
-                        Console.WriteLine("Forma de inserção errada! Digite a nota outra vez [1 a 10]");
+                        Console.WriteLine("Forma de inserção errada! Digite a nota outra vez [10 a 100]");
                         Console.WriteLine("");
                         formaInserida = false;
                     }else{
@@ -100,7 +100,7 @@ do{
     do{
         Console.WriteLine("Deseja continuar inserindo as notas dos alunos? [S/N]");
         resposta = Console.ReadLine();
-    
+
         if(resposta != "S" && resposta != "s" && resposta != "N" && resposta != "n"){
             Console.WriteLine("");
             Console.WriteLine("**RESPOSTA INVALIDA! Digite outra vez [S/N]**");
@@ -110,16 +110,16 @@ do{
             retornoResp = true;
         }
         }while(retornoResp != true);
-    
+
         if(resposta == "S" || resposta == "s"){
             retorno = true;
         }else{
             retorno = false;
         }
-    
+
         qntdAluno = (qntdAluno+1);
         notas = 0;
-    
+
 }while(retorno != false);
 
 Console.WriteLine("                    ***** --------------- *****");
